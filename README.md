@@ -4,7 +4,9 @@ Here, MongoDB is used as database to store the notes and Bootstrap is used to se
 
 ## How to run this app?
 Step 1: Open the terminal in your IDE
+
 Step 2: Type 'uvicorn index:app --reload' to run this app in local server
+
 Step 3: You will get the link to this app in your terminal, click the link and use this app
 
 ## Note 1: First you need to create a database in MongoDB Compass under the name 'notes' and connect it with your MongoDB cloud account. 
