@@ -16,7 +16,7 @@ You will get the link to this app in your terminal, click the link and use this 
 ### Note 1: First you need to create a database in MongoDB Compass under the name 'notes' and connect it with your MongoDB cloud account. 
 ### Note 2: Keep in mind that under the config folder there is a file named 'db.py', Make sure that you put your username and password for your connected database. 
 
-### Note 3: Make sure to install the following extensions via terminal using pip install
+### Note 3: Make sure to install the following extensions via terminal using 'pip install'
 #### (All of these may not be needed to run this program but most of are)
 annotated-types==0.5.0
 anyio==3.7.1
