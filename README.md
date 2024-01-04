@@ -1,3 +1,6 @@
+# (To view the code, navigate to 'master' branch)
+<br>
+
 # Notes App Using FastAPI, MongoDB, and Bootstrap
 This is a simple Notes App made using FastAPI, MongoDB, and Bootstrap. 
 Here, MongoDB is used as database to store the notes and Bootstrap is used to serve as the front end for the project.
